@@ -7,6 +7,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Cad](https://img.shields.io/badge/Cad-31A8FF?style=flat&logo=cad%20Photoshop&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -61,6 +62,12 @@ class About extends Me
             ThinkPHP::class,
             Swoole:class,
             Vuejs::class,
+            BeeGo::class,
+            GoFrame::class,
+            MongdoDb::class,
+            Redis::class,
+            Mysql::class,
+            Mssql::class,
         ];
     }
 
