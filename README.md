@@ -70,8 +70,3 @@ class About extends Me
     }
 }
 ```
-
-```Golang
-package main
-
-```
