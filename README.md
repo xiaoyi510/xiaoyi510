@@ -1,11 +1,9 @@
-## My Project
+## My Public Project
 
 * XArrMedia
 * XArrNotify
 * XArrRss
 * RustApiServer
-* 
-
 
 
 <hr></hr>
